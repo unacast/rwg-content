@@ -1,4 +1,4 @@
-### Neighborhood package METRICS //TODO.
+### Neighborhood package //TODO.
 Seeking a grand symbol of New York’s revitalization after a brutal pandemic year, Mayor Bill de Blasio is planning a large-scale performance by multiple acts and has called on Clive Davis, the 89-year-old producer and music-industry eminence, to pull it together.
 
 The show, tentatively set for Aug. 21, is still coming together, with no artists confirmed, though Mr. Davis — whose five-decade career highlights have included working with Janis Joplin, Bruce Springsteen, Aretha Franklin, Alicia Keys and Whitney Houston — said he is aiming for eight “iconic” stars to perform a three-hour show for 60,000 attendees and a worldwide television audience.
