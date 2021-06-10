@@ -1,0 +1,2 @@
+## Metrics reaching end-of life.
+These metrics are considered deprecated which means that they are closing in to end of life and will be removed at a certain point in the future. Please start using the newer version of these metrics, or get in touch for more information.
