@@ -1,14 +1,25 @@
-### Neighborhood package //TODO.
-Seeking a grand symbol of New York’s revitalization after a brutal pandemic year, Mayor Bill de Blasio is planning a large-scale performance by multiple acts and has called on Clive Davis, the 89-year-old producer and music-industry eminence, to pull it together.
+### Human movement in neighborhoods, cities, and geographical regions in the US
+The Neighborhood Data Package lets you view visitations to Census Block Groups so that you can understand:
 
-The show, tentatively set for Aug. 21, is still coming together, with no artists confirmed, though Mr. Davis — whose five-decade career highlights have included working with Janis Joplin, Bruce Springsteen, Aretha Franklin, Alicia Keys and Whitney Houston — said he is aiming for eight “iconic” stars to perform a three-hour show for 60,000 attendees and a worldwide television audience.
+**Visitor Profiling**
 
-Mr. de Blasio said in an interview that the concert was part of a “Homecoming Week” to show that New York City is coming back from the pandemic — a celebration for residents and those in the region who might not have visited in a while.
+What types of visitors are visiting a neighborhood? What is the demographic profile of the visitors?
 
-“This concert is going to be a once in a lifetime opportunity,” Mr. de Blasio said. “It’s going to be an amazing lineup. The whole week is going to be like nothing you’ve ever seen before in New York City.”
+**Neighborhood Analysis**
 
-The show would be the latest in a storied tradition of Central Park super-productions that tend to attract worldwide coverage and to paint New York as a peaceful, cosmopolitan haven for the arts. Many New Yorkers, especially the mayor, may welcome that view after the prevalence of pandemic-era images like a deserted Times Square and boarded-up storefronts amid last summer’s protests in the wake of the murder of George Floyd.
+Where do visitors to a neighborhood live or work?
 
-“I can’t think of a better place than the Great Lawn of Central Park to be the place where you say that New York is reopening,” Mr. Davis said in an interview.
+**Market Effectiveness**
 
-Mr. Davis said that Mr. de Blasio called him three weeks ago, around the time of Mr. Davis’s latest Grammy gala, which he has been hosting annually since 1976, and was divided into two parts this year. As Mr. Davis recalled, the mayor asked him to present a show in partnership with the city that would celebrate New York’s reopening and emphasize the need to vaccinate more young people. The event’s working title gives a sense of its intended gravity: “The Official NYC Homecoming Concert in Central Park.”
+How much did my advertising campaign increase visitation to a neighborhood?
+
+**Site Selection**
+
+In what neighborhoods should I open or close a store or invest in a property?
+
+The Neighborhood Data Package helps you understand visitation to Census Block Groups by calculating:
+
+**Traffic Trends** - Daily, Weekly, Monthly staying counts to neighborhoods 
+**Traffic Patterns** - Neighborhood foot traffic and percent visitation out of total neighborhood traffic
+**Visitor Demographics** - Income, educational attainment, age, gender, and race/ethnicity breakdown of visitation to neighborhood 
+**Catchment Area** - Distribution and percentile distance from home and work to a neighborhood and home/work origins of traffic
