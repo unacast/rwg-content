@@ -1,4 +1,3 @@
-### Migration patterns
 **Shifts in population and demographics in the US**
 
 The Migration patterns dataset lets you view population movements to areas so that you can:
