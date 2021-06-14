@@ -1,14 +1,26 @@
-## Retail performance METRICS //TODO.
-Seeking a grandish symbol of New York’s revitalization after a brutal pandemic year, Mayor Bill de Blasio is planning a large-scale performance by multiple acts and has called on Clive Davis, the 89-year-old producer and music-industry eminence, to pull it together.
+### Foot traffic for various retail categories in the US
+The Retail Performance dataset lets you view foot traffic at the industry category level so that you can:
 
-The show, tentatively set for Aug. 21, is still coming together, with no artists confirmed, though Mr. Davis — whose five-decade career highlights have included working with Janis Joplin, Bruce Springsteen, Aretha Franklin, Alicia Keys and Whitney Houston — said he is aiming for eight “iconic” stars to perform a three-hour show for 60,000 attendees and a worldwide television audience.
+**Detect change in customer behavior**
 
-Mr. de Blasio said in an interview that the concert was part of a “Homecoming Week” to show that New York City is coming back from the pandemic — a celebration for residents and those in the region who might not have visited in a while.
+By tracking foot traffic for different categories and regions, you can identify localized vs nationwide changes in visitation for specific industries.
 
-“This concert is going to be a once in a lifetime opportunity,” Mr. de Blasio said. “It’s going to be an amazing lineup. The whole week is going to be like nothing you’ve ever seen before in New York City.”
+**Understand impact of phenomena on venue activity**
 
-The show would be the latest in a storied tradition of Central Park super-productions that tend to attract worldwide coverage and to paint New York as a peaceful, cosmopolitan haven for the arts. Many New Yorkers, especially the mayor, may welcome that view after the prevalence of pandemic-era images like a deserted Times Square and boarded-up storefronts amid last summer’s protests in the wake of the murder of George Floyd.
+By evaluating foot traffic for different categories and regions against a set baseline, you can glean greater insight into how certain events affect visitation, and inform decisions on remediation of any drops in performance.
 
-“I can’t think of a better place than the Great Lawn of Central Park to be the place where you say that New York is reopening,” Mr. Davis said in an interview.
+**Identify level of recovery**
 
-Mr. Davis said that Mr. de Blasio called him three weeks ago, around the time of Mr. Davis’s latest Grammy gala, which he has been hosting annually since 1976, and was divided into two parts this year. As Mr. Davis recalled, the mayor asked him to present a show in partnership with the city that would celebrate New York’s reopening and emphasize the need to vaccinate more young people. The event’s working title gives a sense of its intended gravity: “The Official NYC Homecoming Concert in Central Park.”
+By tracking the change in foot traffic against a set baseline, you can gauge the extent to which different categories and regions have recovered, in order to inform store re-openings, staffing needs, etc.
+
+**Optimize production and supply chain management**
+
+By understanding the impact of an event on activity, along with the recovery trend, you can make adjustments to existing strategies based on geographical changes in demand.
+
+The Retail Performance dataset helps you understand foot traffic at the industry category level by calculating:
+
+**Venue Visitation** - Extrapolated visits to venues at the category level
+
+**Year-on-year Comparisons** - Visitation trends for the previous year and 2019
+
+**Visitation Rate of Change** - Short, medium and long-term percentage change, and trend line slope in visitation 
