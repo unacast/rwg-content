@@ -1,6 +1,6 @@
 **Shifts in population and demographics in the US**
 
-### Use cases
+### What you can do with it
 
 The Migration patterns dataset lets you view population movements to areas so that you can:
 
@@ -20,7 +20,7 @@ By identifying areas with great outflows, you can understand which regions are m
 
 By looking at the rate of moves for different areas in the country, you can understand the differences in behavioral responses of different population segments to nationwide events.
 
-### How to work with the data
+### How you can use it
 
 The Migration patterns dataset helps you understand population movements by calculating:
 
