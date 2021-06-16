@@ -8,7 +8,7 @@ The Social Distancing dataset lets you view social distancing insights at a regi
 - Are certain areas getting what they need in order to stay healthy and comply?
 - How will I know when it’s safe to send citizens back to work?
 
-### How to work with it
+### How you can use it
 The Social Distancing dataset calculates:
 
 **Change in Average Mobility** - Average daily distance traveled, compared to a pre-COVID-19 baseline.
