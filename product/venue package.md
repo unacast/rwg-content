@@ -1,5 +1,6 @@
-### Human movement within and around commercial points-of-interest in the US
-The Venue Data Package lets you view visitation to venues so that you can understand:
+**Human movement within and around commercial points-of-interest in the US**
+### What you can do with it
+The Venue Package lets you view visitation to venues so that you can understand:
 
 **Brand Fidelity**
 
@@ -24,12 +25,12 @@ How much did my advertising campaign increase visitation to my store?
 **Site Selection**
 
 In what areas should I open or close a store?
-
+### How you can use it
 The Venue Data Package helps you understand visitation to venues by calculating:
 
-**Visitation Counts** - Daily, Weekly, Monthly visit counts to venues 
+**Visitation Counts** - Daily, Weekly, Monthly visit counts to venues.
 
-**Capture Rate & Area Visitation** - Area foot traffic and percent visitation out of total area traffic
+**Capture Rate & Area Visitation** - Area foot traffic and percent visitation out of total area traffic.
 
 **Visitor Demographics** - Income, educational attainment, age, gender, and race/ethnicity profiles of visitations to a venue.
 
