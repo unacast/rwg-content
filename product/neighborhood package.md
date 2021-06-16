@@ -1,7 +1,7 @@
 **Human movement in neighborhoods, cities, and geographical regions in the US**
 
 ### What you can do with it
-The Neighborhood Data Package lets you view visitations to Census Block Groups so that you can understand:
+The Neighborhood Package lets you view visitations to Census Block Groups so that you can understand:
 
 **Visitor Profiling**
 
@@ -19,7 +19,7 @@ How much did my advertising campaign increase visitation to a neighborhood?
 
 In what neighborhoods should I open or close a store or invest in a property?
 ### How you can use it
-The Neighborhood Data Package helps you understand visitation to Census Block Groups by calculating:
+The Neighborhood Package helps you understand visitation to Census Block Groups by calculating:
 
 **Traffic Trends** - Daily, Weekly, Monthly staying counts to neighborhoods.
 
