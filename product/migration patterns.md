@@ -30,4 +30,4 @@ The Migration Patterns dataset helps you understand population movements by calc
 
 **Income Flows** - Census-derived incomes of incoming moves.
 
-**Historical Trends** - Seasonal vs yearly trends of moves
+**Historical Trends** - Seasonal vs yearly trends of moves.
