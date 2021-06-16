@@ -24,10 +24,10 @@ By looking at the rate of moves for different areas in the country, you can unde
 
 The Migration patterns dataset helps you understand population movements by calculating:
 
-**Origin-Destination Flows** - Extrapolated numbers of moves with origins and destinations
+**Origin-Destination Flows** - Extrapolated numbers of moves with origins and destinations.
 
-**Net Migration** - Inflows, outflows and net flows by area
+**Net Migration** - Inflows, outflows and net flows by area.
 
-**Income Flows** - Census-derived incomes of incoming moves
+**Income Flows** - Census-derived incomes of incoming moves.
 
 **Historical Trends** - Seasonal vs yearly trends of moves
