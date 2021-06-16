@@ -1,4 +1,5 @@
-### Foot traffic for various retail categories in the US
+**Foot traffic for various retail categories in the US**
+### What you can do with it
 The Retail Performance dataset lets you view foot traffic at the industry category level so that you can:
 
 **Detect change in customer behavior**
@@ -16,6 +17,7 @@ By tracking the change in foot traffic against a set baseline, you can gauge the
 **Optimize production and supply chain management**
 
 By understanding the impact of an event on activity, along with the recovery trend, you can make adjustments to existing strategies based on geographical changes in demand.
+### How you can use it
 
 The Retail Performance dataset helps you understand foot traffic at the industry category level by calculating:
 
