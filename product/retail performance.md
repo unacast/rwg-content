@@ -21,8 +21,8 @@ By understanding the impact of an event on activity, along with the recovery tre
 
 The Retail Performance dataset helps you understand foot traffic at the industry category level by calculating:
 
-**Venue Visitation** - Extrapolated visits to venues at the category level
+**Venue Visitation** - Extrapolated visits to venues at the category level.
 
-**Year-on-year Comparisons** - Visitation trends for the previous year and 2019
+**Year-on-year Comparisons** - Visitation trends for the previous year and 2019.
 
-**Visitation Rate of Change** - Short, medium and long-term percentage change, and trend line slope in visitation 
+**Visitation Rate of Change** - Short, medium and long-term percentage change, and trend line slope in visitation.
