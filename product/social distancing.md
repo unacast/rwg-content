@@ -1,6 +1,6 @@
 **Social distancing in US counties and states compared to pre-COVID-19**
 ### What you can do with it
-The Social distancing dataset lets you view social distancing insights at a regional level so that you can make localized decisions by answering questions such as:
+The Social Distancing dataset lets you view social distancing insights at a regional level so that you can make localized decisions by answering questions such as:
 
 - What are the differences in policy adherence within a county or city?
 - Which areas are most at risk and how do I respond accordingly?
@@ -9,7 +9,7 @@ The Social distancing dataset lets you view social distancing insights at a regi
 - How will I know when it’s safe to send citizens back to work?
 
 ### How to work with it
-The Social distancing dataset calculates:
+The Social Distancing dataset calculates:
 
 **Change in Average Mobility** - Average daily distance traveled, compared to a pre-COVID-19 baseline.
 
