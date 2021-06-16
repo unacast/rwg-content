@@ -2,7 +2,7 @@
 
 ### What you can do with it
 
-The Migration patterns dataset lets you view population movements to areas so that you can:
+The Migration Patterns dataset lets you view population movements to areas so that you can:
 
 **Identify potential commercial hubs and areas of growth**
 
@@ -22,7 +22,7 @@ By looking at the rate of moves for different areas in the country, you can unde
 
 ### How you can use it
 
-The Migration patterns dataset helps you understand population movements by calculating:
+The Migration Patterns dataset helps you understand population movements by calculating:
 
 **Origin-Destination Flows** - Extrapolated numbers of moves with origins and destinations.
 
