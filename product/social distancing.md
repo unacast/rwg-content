@@ -1,4 +1,5 @@
-### Social distancing in US counties and states compared to pre-COVID-19
+**Social distancing in US counties and states compared to pre-COVID-19**
+### What you can do with it
 The Social distancing dataset lets you view social distancing insights at a regional level so that you can make localized decisions by answering questions such as:
 
 - What are the differences in policy adherence within a county or city?
@@ -7,11 +8,11 @@ The Social distancing dataset lets you view social distancing insights at a regi
 - Are certain areas getting what they need in order to stay healthy and comply?
 - How will I know when it’s safe to send citizens back to work?
 
+### How to work with it
+The Social distancing dataset calculates:
 
-Specifically, the Social Distancing dataset calculates:
+**Change in Average Mobility** - Average daily distance traveled, compared to a pre-COVID-19 baseline.
 
-**Change in Average Mobility** - Average daily distance traveled, compared to a pre-COVID-19 baseline
+**Change in Non-Essential Visits** - Foot traffic in non-essential venues, compared to a pre-COVID-19 baseline.
 
-**Change in Non-Essential Visits** - Foot traffic in non-essential venues, compared to a pre-COVID-19 baseline
-
-**Difference in Encounter Density** - Change in number of close human encounters per sq km, relative to a national pre-COVID-19 baseline
+**Difference in Encounter Density** - Change in number of close human encounters per sq km, relative to a national pre-COVID-19 baseline.
