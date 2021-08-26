@@ -1,1 +1,1 @@
-Evaluate and prioritize new locations
+Evaluate and prioritize new locations.
